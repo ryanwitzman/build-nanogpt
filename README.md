@@ -1,4 +1,10 @@
-# build nanoGPT
+# build nanoGPT-o (Fork to make GPT2 Natively Multimodal)
+- Blog TODO
+
+- [x] Audio (See `audio` Branch)
+- [] Image/Video
+
+# Copy of Readme
 
 This repo holds the from-scratch reproduction of [nanoGPT](https://github.com/karpathy/nanoGPT/tree/master). The git commits were specifically kept step by step and clean so that one can easily walk through the git commit history to see it built slowly. Additionally, there is an accompnaying [video lecture on YouTube](https://youtu.be/l8pRSuU81PU) where you can see me introduce each commit and explain the pieces along the way.
 
